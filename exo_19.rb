@@ -25,7 +25,7 @@ counter = 1
 
 while counter <= 50
 	puts myarray[counter]
-	counter +=2
+	counter += 2
 end
 
 
