@@ -7,7 +7,7 @@ print ">"
 user_lastname = gets.chomp
 
 puts "Création de 50 emails bidons :"
-count = 01
+count = 1
 myarray = []
 
 while count <= 50 
